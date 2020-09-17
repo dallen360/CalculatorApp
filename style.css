@@ -206,8 +206,20 @@ input[type="number" i] {
     padding-left: 10px;
     border-top: black solid 2px;
 }
-.tax-btn:hover{
+#btn-1:hover{
     background-color: #37b6f1;
+}
+#btn-2:hover{
+    background-color:#37b6f1;
+}
+#btn-3:hover{
+    background-color: #37b6f1;
+}
+#btn-4:hover{
+    background-color: #37b6f1;
+}
+#btn-5:hover{
+    background-color:#37b6f1;
 }
 #paycheck-title{
     padding-right: 10px;
